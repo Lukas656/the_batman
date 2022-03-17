@@ -126,6 +126,10 @@ button:hover{
     background-color: rgba(241, 19, 19, 0.747);
 }
 footer{
+    height: 20px;
     text-align: center;
      background: rgb(59, 58, 58);
+}
+footer:hover{
+    background-color: rgba(241, 19, 19, 0.747);
 }
